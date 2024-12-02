@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.11.2024
+## Register Number:24011750
+## Name:SANDHIYA M
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -38,18 +38,35 @@ Key Features and Functionalities:
 
 12)Pride and Recognition: Acknowledging alumni achievements and contributions will build pride in the institution and inspire current students to pursue excellence.
 
-13)Prioritize Security: Robust data protection and user privacy measures must be in place to safeguard personal and financial information.
 
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-12-02 182706](https://github.com/user-attachments/assets/140da7dd-2681-4f22-9430-d36666a254fd)
+
+
 
 
 ## Use Cases
+![Screenshot 2024-12-02 183627](https://github.com/user-attachments/assets/57d527b4-c532-43d4-8473-77e2073347af)
+
 
 
 ## Technology Stack
+Frontend: HTML, CSS,Bootstrap
+backend: Django, Flask,Laravel
+Security: JWT,ModSecurity
+Hosting: AWS, GCP
+Payment Gateway: Stripe API
 
 
 ## Dependencies
+-Framework: React, Angular, Django
+-Programming Language:  Django (Python Alternative) 
+-Cloud Platform: AWS SDK, Google Cloud Pub/Sub SDK
+-Payment Gateways: PayPal Express Checkout SDK or Stripe Node.js SDK.
+-Estimated Total Cost:For a fully functional MVP (Minimum Viable Product) $25,000 -
+$50,000.
+-AES encryption and decryption in Python applications
+
 
